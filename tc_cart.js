@@ -5,10 +5,9 @@
    Tutorial 10
    Case Problem 1
 
-   Author: 
-   Date:   
+   Author: Nicholas Le
+   Date: 02/27/19  
    
    Filename: tc_cart.js
 	
 */
-
